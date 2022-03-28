@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-! [트로피] (https://github-profile-trophy.vercel.app/?username=shinealighton)
+<!-- 트로피 스테이트 -->
+![trophy](https://github-profile-trophy.vercel.app/?username=shinealighton)
+<!-- 커밋 스테이트 -->
+![shinealighton's github stats](https://github-readme-stats.vercel.app/api?username=shinealighton&show_icons=true)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shinealighton&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/shinealighton)
